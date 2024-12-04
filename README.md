@@ -21,4 +21,3 @@ Dashboard Presentation
 Explanation of design and processing
 Ideas for improvement or development
 Demonstration of dashboard update
-![image](https://github.com/user-attachments/assets/a62120c5-aa09-4e87-8c0b-7d28112ee069)
